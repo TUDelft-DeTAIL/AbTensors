@@ -30,4 +30,4 @@ If installing Julia is not possible then these notebooks can be run in the cloud
 
 [Experiment 2 - Completion of a Hankel matrix from noisy measurements](https://binder.plutojl.org/v0.19.36/open?url=https%253A%252F%252Fraw.githubusercontent.com%252FTUDelft-DeTAIL%252FAbTensors%252Fmain%252FAbTensors2.jl)
 
-[Experiment 3 - Bayesian learning of MNIST classifier]()
+[Experiment 3 - Bayesian learning of MNIST classifier](https://binder.plutojl.org/v0.19.36/open?url=https%253A%252F%252Fraw.githubusercontent.com%252FTUDelft-DeTAIL%252FAbTensors%252Fmain%252FAbTensors3.jl)
