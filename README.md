@@ -12,13 +12,18 @@ The recommended way to run these notebooks is on your own computer. This, howeve
 
 2. In Julia press the "]" key to open the package manager and then run the command "add Pluto".
 
-3. Once Pluto is installed press backspace to return to the prompt and run the command "Using Pluto".
+3. Once Pluto is installed press backspace to return to the prompt and run the command 
+    
+    Using Pluto
+
+    Pluto.run()
+
 
 4. Pluto will start in your browser, open the notebook you want to run and then click on "Run notebook code" in the upper right corner.
 
-## 2. Run .jl files in the cloud
+## 2. Run .jl files in the cloud via Binder
 
-If installing Julia is not possible then these notebooks can be run in the cloud instead. Please note that this option might be quite slow so please be patient. Simply click on the hyperlinks below to run the notebooks. Once the notebook has openend, click on "Run notebook code" in the upper right corner.
+If installing Julia is not possible then these notebooks can be run in the cloud via [Binder](https://mybinder.org/) instead. Please note that this option might be quite slow so please be patient. Simply click on the hyperlinks below to run the notebooks. Once the notebook has openend, click on "Run notebook code" in the upper right corner.
 
 [Experiment 1 - Sampling structured tensor priors](https://binder.plutojl.org/v0.19.36/open?url=https%253A%252F%252Fraw.githubusercontent.com%252FTUDelft-DeTAIL%252FAbTensors%252Fmain%252FAbTensors1.jl)
 
