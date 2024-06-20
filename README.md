@@ -25,9 +25,9 @@ The recommended way to run these notebooks is on your own computer. This, howeve
 
 If installing Julia is not possible then these notebooks can be run in the cloud via [Binder](https://mybinder.org/) instead. Please note that this option might be quite slow so please be patient. Simply click on the hyperlinks below to run the notebooks. Once the notebook has opened, click on "Run notebook code" in the upper right corner.
 
-[Experiment 1 - Sampling structured tensor priors](https://binder.plutojl.org/v0.19.36/open?url=https%253A%252F%252Fraw.githubusercontent.com%252FTUDelft-DeTAIL%252FAbTensors%252Fmain%252FAbTensors1.jl)
+[Application 1 - Sampling structured tensor priors](https://binder.plutojl.org/v0.19.36/open?url=https%253A%252F%252Fraw.githubusercontent.com%252FTUDelft-DeTAIL%252FAbTensors%252Fmain%252FAbTensors1.jl)
 
 
-[Experiment 2 - Completion of a Hankel matrix from noisy measurements](https://binder.plutojl.org/v0.19.36/open?url=https%253A%252F%252Fraw.githubusercontent.com%252FTUDelft-DeTAIL%252FAbTensors%252Fmain%252FAbTensors2.jl)
+[Application 2 - Completion of a Hankel matrix from noisy measurements](https://binder.plutojl.org/v0.19.36/open?url=https%253A%252F%252Fraw.githubusercontent.com%252FTUDelft-DeTAIL%252FAbTensors%252Fmain%252FAbTensors2.jl)
 
-[Experiment 3 - Bayesian learning of MNIST classifier](https://binder.plutojl.org/v0.19.36/open?url=https%253A%252F%252Fraw.githubusercontent.com%252FTUDelft-DeTAIL%252FAbTensors%252Fmain%252FAbTensors3.jl)
+[Application 3 - Bayesian learning of MNIST classifier](https://binder.plutojl.org/v0.19.36/open?url=https%253A%252F%252Fraw.githubusercontent.com%252FTUDelft-DeTAIL%252FAbTensors%252Fmain%252FAbTensors3.jl)
