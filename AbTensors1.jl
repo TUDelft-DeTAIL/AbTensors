@@ -34,9 +34,9 @@ pluto-helpbox {
 
 # ╔═╡ ea45707a-2c33-42d2-bc18-6676223b2576
 md"""
-This notebook is part of the experiments section of the article [_"Constructing structured tensor priors for Bayesian inverse problems", Kim Batselier._](https://arxiv.org/abs/) and is licensed under the [MIT OSS license](https://www.tldrlegal.com/license/mit-license?ref=fossa.com#fulltext).
+This notebook is part of the experiments section of the article [_"Constructing structured tensor priors for Bayesian inverse problems", Kim Batselier._](https://arxiv.org/abs/2406.17597) and is licensed under the [MIT OSS license](https://www.tldrlegal.com/license/mit-license?ref=fossa.com#fulltext).
 
-### Sampling priors of $(\mathcal A,b)$-constrained tensors
+### Sampling priors of $(A,b)$-constrained tensors
 ---
 A tensor $\mathcal W \in \mathbb{R}^{J_1 \times J_2 \times \cdots \times J_D}$ is an $(A,b)$-constrained tensor when there is a matrix $A \in \mathbb{R}^{I \times J_1\cdots J_D}$ and vector $b \in \mathbb{R}^I$ such that ${A} \; \mathrm vec(\mathcal W) = b.$
 

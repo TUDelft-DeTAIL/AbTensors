@@ -68,7 +68,7 @@ begin
 	Random.seed!(1235);
 
 md"""
-This notebook is part of the experiments section of the article [_"Constructing structured tensor priors for Bayesian inverse problems", Kim Batselier._](https://arxiv.org/abs/1607.00127) and is licensed under the [MIT OSS license](https://www.tldrlegal.com/license/mit-license?ref=fossa.com#fulltext).
+This notebook is part of the experiments section of the article [_"Constructing structured tensor priors for Bayesian inverse problems", Kim Batselier._](https://arxiv.org/abs/2406.17597) and is licensed under the [MIT OSS license](https://www.tldrlegal.com/license/mit-license?ref=fossa.com#fulltext).
 
 ### Completion of a noisy Hankel matrix
 ---
