@@ -1,6 +1,6 @@
 # Reactive Pluto Notebooks from article "Constructing structured tensor priors for Bayesian inverse problems" 
 
-These reactive [Pluto.jl](https://github.com/fonsp/Pluto.jl) notebooks are the numerical experiments of the article "Constructing structured tensor priors for Bayesian inverse problems" by Kim Batselier.
+These reactive [Pluto.jl](https://github.com/fonsp/Pluto.jl) notebooks are the numerical experiments of the article "[Constructing structured tensor priors for Bayesian inverse problems](https://arxiv.org/abs/2406.17597)" by Kim Batselier.
 
 There are basically two ways to run these notebooks:
 
